@@ -35,8 +35,7 @@ The subsequent steps for this project include:
 ## Technologies Used (So far)
 
 * **Python**
-* **PyTorch / TensorFlow** (Specify which one you used for training)
-* **YOLOv9** (Or your specific model architecture, e.g., YOLOv8, Faster R-CNN)
+* **YOLOv9**
 * **Roboflow** (For dataset management and annotation)
 * **Google Colab** (For training environment)
 
@@ -56,6 +55,6 @@ _This section will be expanded once the application development begins._
 
 ## Contact
 
-Ali Ljaljak - aljaljak2@ezf.unsa.ba
+Ali Ljaljak - aljaljak2@etf.unsa.ba
 
 ---
