@@ -21,7 +21,7 @@ The custom dataset used for training this model was created and managed using Ro
 
 The initial model training was conducted in a Google Colab environment, leveraging its GPU capabilities for efficient deep learning. The training process involved [briefly mention model architecture, e.g., "fine-tuning a YOLOv9 model"] on the custom futsal player dataset.
 
-* **Google Colab Training Notebook:** [(https://colab.research.google.com/drive/1uc1ttOqH3OAx4RXGrnaJeNoHrwgvKRPW?usp=sharing)]
+* **Google Colab Training Notebook:** [Futsal Player Detector - Initial Training](https://www.google.com/url?sa=E&source=gmail&q=https://colab.research.google.com/drive/1uc1ttOqH3OAx4RXGrnaJeNoHrwgvKRPN?usp=sharing)
     
 
 ## Future Work (Application Development)
