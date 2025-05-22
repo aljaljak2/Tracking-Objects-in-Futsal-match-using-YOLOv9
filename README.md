@@ -45,7 +45,7 @@ _This section will be expanded once the application development begins._
 
 1.  Clone this repository:
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/aljaljak2/Tracking-Objects-in-Futsal-match-using-YOLOv9
     ```
 2.  Install dependencies:
     ```bash
